@@ -1,10 +1,15 @@
-# Clone da Página de Login do Instagram
+# Clone da Página Login do Instagram
 
 
 
-Tecnologias utilizadas:
+Tecnologias usadas
 
-- HTML5
-- CSS3
-- FLEXBOX
+- Html
+- Css
+- Flexbox
 
+
+
+
+
+Autor: Raudnei 
